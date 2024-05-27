@@ -1,4 +1,4 @@
-### Olá! Eu sou Ismael Rodrigues 🤙
+### Olá eu sou Ismael Rodrigues 🤙
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismael.rdg)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-rodrigues-93480327a/)
@@ -7,7 +7,7 @@
 
 ![Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelrdgdev&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelrdgdev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelrdgdev&langs_count=8)
 
 ### Tecnologias em estudos - atualização em breve
 
