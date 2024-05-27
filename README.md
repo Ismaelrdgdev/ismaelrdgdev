@@ -7,7 +7,7 @@
 
 ![Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelrdgdev&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelrdgdev&hide_progress=true)
 
 ### Tecnologias em estudos - atualização em breve
 
