@@ -7,6 +7,8 @@
 
 ![Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelrdgdev&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### Tecnologias em estudos - atualização em breve
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
