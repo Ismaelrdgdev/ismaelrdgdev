@@ -19,10 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="32" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="32" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="32" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="32" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/ismael-rodrigues-93480327a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ismael.rdg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="32" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -41,6 +43,6 @@
 
 ###
 
-<p align="center">Sou um Pernambucano, residente no Rio de Janeiro, universitário, apaixonado por tecnologia e bastante curioso a aprender.</p>
+<h4 align="center">Sou um Pernambucano, residente no Rio de Janeiro, universitário, apaixonado por tecnologia e bastante curioso a aprender.</h4>
 
 ###
