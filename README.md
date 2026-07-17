@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ismael%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Full%20Stack&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Ismael%20Rodrigues&fontSize=100&fontColor=000&animation=fadeIn"/>
 
 <h3 align="center">💻 Desenvolvedor Web Full Stack</h3>
 
