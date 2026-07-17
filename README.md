@@ -5,7 +5,7 @@
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
 ## 🚀 Tecnologias que utilizo e estudo
 
