@@ -1,10 +1,12 @@
-<h1 align="center">Olá 👋, eu sou Ismael Rodrigues</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ismael%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Full%20Stack&descAlignY=60"/>
 
 <h3 align="center">💻 Desenvolvedor Web Full Stack</h3>
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Stack;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=800&height=50">
