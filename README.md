@@ -12,7 +12,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de aplicações mo
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Stack;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=800&height=50">
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 👨‍💻 Sobre mim
 
@@ -22,7 +22,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, 
 
 Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem impacto real para empresas e usuários.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🚀 Tecnologias que utilizo e estudo
 
@@ -30,7 +30,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ###
 
