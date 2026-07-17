@@ -1,10 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%20Ismael%20Rodrigues&fontSize=70&fontColor=000&animation=fadeIn"/>
 
-<h3 align="center">💻 Desenvolvedor Web Full Stack</h3>
+<h3 align="center">💻 Desenvolvedor Web</h3>
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
 </p>
+## 🚀 Tecnologias que utilizo e estudo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -20,14 +26,6 @@ Sou um desenvolvedor web apaixonado por criar aplicações modernas, responsivas
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, trabalhando diariamente com tecnologias do ecossistema JavaScript e expandindo meus conhecimentos em backend e banco de dados.
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🚀 Tecnologias que utilizo e estudo
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
