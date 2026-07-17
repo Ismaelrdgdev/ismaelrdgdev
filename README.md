@@ -12,13 +12,12 @@ Apaixonado por tecnologia, desenvolvimento web e construção de aplicações mo
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
 </p>
-###
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Stack;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=800&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=600&height=30">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
