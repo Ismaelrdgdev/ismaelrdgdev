@@ -16,11 +16,23 @@ Apaixonado por tecnologia, desenvolvimento web e construção de aplicações mo
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor web apaixonado por criar aplicações modernas, responsivas e escaláveis.
+```yaml
+name: Ismael Rodrigues
+role: Full Stack Developer
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, trabalhando diariamente com tecnologias do ecossistema JavaScript e expandindo meus conhecimentos em backend e banco de dados.
+focus:
+  - Aplicações modernas
+  - Interfaces responsivas
+  - APIs escaláveis
 
-Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem impacto real para empresas e usuários.
+currently_learning:
+  - React
+  - TypeScript
+  - Node.js
+  - PostgreSQL
+
+mission:
+  Construir soluções que gerem impacto real.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
