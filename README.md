@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%Ismael%20Rodrigues&fontSize=70&fontColor=000&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%20Ismael%20Rodrigues&fontSize=70&fontColor=000&animation=fadeIn"/>
 
 <h3 align="center">💻 Desenvolvedor Web Full Stack</h3>
 
