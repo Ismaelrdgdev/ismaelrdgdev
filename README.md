@@ -43,6 +43,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções
 ✓ PostgreSQL
 ✓ Tailwind CSS
 ✓ Bootstrap
+
+
 ###
 
 <div data-importer="techs" align="center">
