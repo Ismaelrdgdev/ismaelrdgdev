@@ -39,7 +39,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20estudadas%20S2" height="155" alt="languages graph" /> <br>
   <img src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=Grafico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
