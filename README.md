@@ -30,21 +30,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções
 
 ---
 
-## 📚 Atualmente estudando
-
-```txt
-✓ HTML5
-✓ CSS3
-✓ JavaScript
-✓ TypeScript
-✓ React
-✓ Node.js
-✓ Python
-✓ PostgreSQL
-✓ Tailwind CSS
-✓ Bootstrap
----
-
 ###
 
 <div data-importer="techs" align="center">
