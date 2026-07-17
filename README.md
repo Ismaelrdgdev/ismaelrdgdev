@@ -5,11 +5,14 @@
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 🚀 Tecnologias que utilizo e estudo
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
 </p>
+###
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
