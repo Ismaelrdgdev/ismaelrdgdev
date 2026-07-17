@@ -7,7 +7,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de aplicações mo
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=850&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Desenvolvedor+Web+Full+Stack;Estudando+React+e+TypeScript;Construindo+projetos+com+Node.js;Aprendendo+Python+e+PostgreSQL;HTML5+%7C+CSS3+%7C+JavaScript;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web+Full+Stack;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=800&height=50">
 </p>
 
 ---
