@@ -1,5 +1,48 @@
-<h1 data-importer="text" align="center">Olá sou Ismael Rodrigues 👋</h1>
+<h1 align="center">Olá 👋, eu sou Ismael Rodrigues</h1>
 
+<h3 align="center">💻 Desenvolvedor Web Full Stack</h3>
+
+<p align="center">
+Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=850&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Desenvolvedor+Web+Full+Stack;Estudando+React+e+TypeScript;Construindo+projetos+com+Node.js;Aprendendo+Python+e+PostgreSQL;HTML5+%7C+CSS3+%7C+JavaScript;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀" />
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor web apaixonado por criar aplicações modernas, responsivas e escaláveis.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, trabalhando diariamente com tecnologias do ecossistema JavaScript e expandindo meus conhecimentos em backend e banco de dados.
+
+Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que gerem impacto real para empresas e usuários.
+
+---
+
+## 🚀 Tecnologias que utilizo e estudo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+```txt
+✓ HTML5
+✓ CSS3
+✓ JavaScript
+✓ TypeScript
+✓ React
+✓ Node.js
+✓ Python
+✓ PostgreSQL
+✓ Tailwind CSS
+✓ Bootstrap
 ###
 
 <div data-importer="techs" align="center">
