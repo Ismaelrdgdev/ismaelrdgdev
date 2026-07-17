@@ -5,7 +5,7 @@
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🚀 Tecnologias que utilizo e estudo
 
@@ -14,13 +14,12 @@ Apaixonado por tecnologia, desenvolvimento web e construção de aplicações mo
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <p align="center" height="40" >
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=600&height=40">
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 👨‍💻 Sobre mim
 
@@ -29,7 +28,7 @@ Sou um desenvolvedor web apaixonado por criar aplicações modernas, responsivas
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, trabalhando diariamente com tecnologias do ecossistema JavaScript e expandindo meus conhecimentos em backend e banco de dados.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ###
 
